@@ -11,4 +11,4 @@ Welcome to my profile!
 
 ## 🚀 Skills
 - **Languages**: Python, JavaScript, SQL, HTML and CSS
-- **Tools**: Git, Vs Code and MySQL
+- **Tools**: Git, Vs Code, Figma, MySQL and SQLite
